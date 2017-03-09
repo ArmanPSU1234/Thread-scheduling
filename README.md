@@ -1,6 +1,7 @@
 # Thread-Scheduling
 
 @author: Arman Mannan, Fanzhou Wang
+
 Purpose: thread-based schedulers for an n-processor architecture, n > 1, using the following scheduling policies:
 
 1.	First Come, First Served (FCFS).
